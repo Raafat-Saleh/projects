@@ -1,0 +1,17 @@
+/** @format */
+
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+body {
+  margin: 0;
+  font-family: "Lobster", "Verdana", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #d1e1f1;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

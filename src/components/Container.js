@@ -10,7 +10,7 @@ export default function Container() {
         <Card
           color={"city"}
           className={"pp"}
-          url={"https://cody-net.web.app/"}
+          url={"https://cody-net.netlify.app/"}
           name={"CodY"}
           type={"QR webesite"}
           description={
